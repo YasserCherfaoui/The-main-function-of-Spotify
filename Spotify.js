@@ -34,4 +34,4 @@ function updateRecords(object, id, prop, value) {
 }
 
 updateRecords(collection, 5439, 'artist', 'ABBA');
-console.log(collection);
+
